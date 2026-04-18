@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 ## Linked List
 |  |
 | ------- |
@@ -33,4 +34,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1929-concatenation-of-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
