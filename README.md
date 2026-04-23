@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0035-search-insert-position) |
+| [0066-plus-one](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0066-plus-one) |
 | [1929-concatenation-of-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0066-plus-one) |
 ## String
 |  |
 | ------- |
