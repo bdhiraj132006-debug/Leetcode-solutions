@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0622-design-circular-queue](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0739-daily-temperatures](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0739-daily-temperatures) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [1929-concatenation-of-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 ## Sorting
 |  |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 ## Matrix
 |  |
 | ------- |
@@ -153,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -229,4 +233,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0622-design-circular-queue](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 <!---LeetCode Topics End-->
