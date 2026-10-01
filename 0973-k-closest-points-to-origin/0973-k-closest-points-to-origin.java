@@ -30,8 +30,13 @@ class Solution {
 
     private int partition(int[][] points,int left,int right)
     {
+        int midIndex = left+(right-left)/2;
+        int[] temp = points[midIndex];
+        points[midIndex]=points[right];
+        points[right] = temp;
+
         int pivotDist = dist(points[right]);
-        int i = left;
+        int i=left;
 
         for(int j=left;j<right;j++)
         {
