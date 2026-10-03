@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 ## Greedy
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0912-sort-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -174,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0912-sort-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0912-sort-an-array) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0155-min-stack) |
+| [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0622-design-circular-queue](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
@@ -247,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Range Minimum/Maximum Query
 |  |
