@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0394-decode-string) |
 ## Linked List
 |  |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Algorithm X
 |  |
@@ -240,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0155-min-stack) |
 | [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0622-design-circular-queue](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0901-online-stock-span](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0901-online-stock-span) |
 ## Doubly-Linked List
@@ -302,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -309,6 +313,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -317,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0199-binary-tree-right-side-view) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 ## DP on Trees
 |  |
