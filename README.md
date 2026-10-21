@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 | [1425-constrained-subsequence-sum](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/1425-constrained-subsequence-sum) |
 | [1929-concatenation-of-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0212-word-search-ii) |
+| [0994-rotting-oranges](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -338,6 +340,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0994-rotting-oranges](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
 | ------- |
