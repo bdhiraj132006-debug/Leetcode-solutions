@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0621-task-scheduler](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0622-design-circular-queue) |
+| [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -177,6 +178,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Divide and Conquer
 |  |
@@ -254,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Algorithm X
 |  |
 | ------- |
@@ -351,6 +354,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -398,6 +402,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
