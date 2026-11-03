@@ -260,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0543-diameter-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
+| [0684-redundant-connection](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Algorithm X
 |  |
@@ -360,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
 | [0542-01-matrix](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [0684-redundant-connection](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 | [0994-rotting-oranges](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
@@ -409,12 +411,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0130-surrounded-regions](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0200-number-of-islands) |
+| [0684-redundant-connection](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0210-course-schedule-ii) |
+| [0684-redundant-connection](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0684-redundant-connection) |
 ## Topological Sort
 |  |
 | ------- |
