@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0621-task-scheduler](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0622-design-circular-queue) |
 | [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0739-daily-temperatures](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0739-daily-temperatures) |
 | [0862-shortest-subarray-with-sum-at-least-k](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0862-shortest-subarray-with-sum-at-least-k) |
 | [0875-koko-eating-bananas](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0875-koko-eating-bananas) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0496-next-greater-element-i](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Math
 |  |
 | ------- |
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0394-decode-string) |
+| [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Linked List
 |  |
 | ------- |
@@ -154,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0621-task-scheduler](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0912-sort-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0912-sort-an-array) |
 | [0973-k-closest-points-to-origin](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
 ## Dynamic Programming
@@ -262,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0543-diameter-of-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0543-diameter-of-binary-tree) |
 | [0684-redundant-connection](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Algorithm X
 |  |
 | ------- |
@@ -363,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0542-01-matrix](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0542-01-matrix) |
 | [0684-redundant-connection](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0994-rotting-oranges](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0994-rotting-oranges) |
 ## Binary Tree
 |  |
@@ -413,6 +419,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0684-redundant-connection](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0684-redundant-connection) |
 | [0695-max-area-of-island](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0695-max-area-of-island) |
+| [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
 ## Graph Theory
 |  |
 | ------- |
