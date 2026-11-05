@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0039-combination-sum) |
 | [0046-permutations](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0051-n-queens) |
+| [0056-merge-intervals](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0066-plus-one](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0074-search-a-2d-matrix](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0078-subsets) |
@@ -153,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0217-contains-duplicate) |
 | [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
@@ -439,4 +441,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0127-word-ladder) |
+## Quicksort
+|  |
+| ------- |
+| [0056-merge-intervals](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0056-merge-intervals) |
 <!---LeetCode Topics End-->
