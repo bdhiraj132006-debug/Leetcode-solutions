@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0621-task-scheduler](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0621-task-scheduler) |
 | [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Math
 |  |
 | ------- |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0394-decode-string](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
+| [0763-partition-labels](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Linked List
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
 | [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
+| [0763-partition-labels](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Greedy
 |  |
 | ------- |
@@ -145,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0134-gas-station) |
 | [0435-non-overlapping-intervals](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0621-task-scheduler](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0621-task-scheduler) |
+| [0763-partition-labels](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Binary Search
 |  |
 | ------- |
