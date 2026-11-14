@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0394-decode-string](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0394-decode-string) |
 | [0721-accounts-merge](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0721-accounts-merge) |
 | [0763-partition-labels](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0763-partition-labels) |
+| [1143-longest-common-subsequence](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 ## Linked List
 |  |
 | ------- |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0435-non-overlapping-intervals](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0435-non-overlapping-intervals) |
 | [0509-fibonacci-number](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0542-01-matrix](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0542-01-matrix) |
+| [1143-longest-common-subsequence](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 | [1425-constrained-subsequence-sum](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/1425-constrained-subsequence-sum) |
 ## Sliding Window
 |  |
@@ -470,4 +472,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0300-longest-increasing-subsequence](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
