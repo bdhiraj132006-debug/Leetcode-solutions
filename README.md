@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0009-palindrome-number) |
 | [0013-roman-to-integer](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0050-powx-n](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0050-powx-n) |
+| [0062-unique-paths](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0055-jump-game) |
+| [0062-unique-paths](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0198-house-robber) |
@@ -486,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0416-partition-equal-subset-sum](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
