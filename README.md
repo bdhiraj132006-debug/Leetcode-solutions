@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0022-generate-parentheses) |
+| [0072-edit-distance](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0079-word-search](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0127-word-ladder](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0127-word-ladder) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0070-climbing-stairs) |
+| [0072-edit-distance](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0139-word-break](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0198-house-robber) |
