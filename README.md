@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0212-word-search-ii](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0212-word-search-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0300-longest-increasing-subsequence](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0300-longest-increasing-subsequence) |
 | [0416-partition-equal-subset-sum](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0416-partition-equal-subset-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0417-pacific-atlantic-water-flow) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0283-move-zeroes](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0763-partition-labels) |
 ## Greedy
