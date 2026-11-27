@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0169-majority-element](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0212-word-search-ii) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0070-climbing-stairs) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0189-rotate-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0371-sum-of-two-integers](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0371-sum-of-two-integers) |
 | [0509-fibonacci-number](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0973-k-closest-points-to-origin) |
@@ -155,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0027-remove-element) |
 | [0125-valid-palindrome](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0189-rotate-array](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0295-find-median-from-data-stream) |
 | [0763-partition-labels](https://github.com/bdhiraj132006-debug/Leetcode-solutions/tree/master/0763-partition-labels) |
